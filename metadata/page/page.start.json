@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**Learn more about United Kingdom Security Vetting**\r\n\r\nTo learn more about the UK security vetting, you can follow the link below.\r\n\r\nUse [About security](https://www.gov.uk/guidance/security-vetting-and-clearance).",
+  "body": "**Learn more about United Kingdom Security Vetting**\r\n\r\nTo learn more about the UK security vetting, you can follow the link below.\r\n\r\n[About security](https://www.gov.uk/guidance/security-vetting-and-clearance).",
   "components": [
     {
       "_id": "page.start--warning",
