@@ -1,0 +1,38 @@
+{
+  "_id": "page.whyreplacing",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.whyreplacing--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply.",
+      "items": [
+        {
+          "_id": "page.whyreplacing--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "label": "Renewal of expired pass",
+          "name": "auto_name__8"
+        },
+        {
+          "_id": "page.whyreplacing--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "label": "Damaged pass",
+          "name": "auto_name__9"
+        },
+        {
+          "_id": "page.whyreplacing--checkboxes--checkbox.auto_name__10",
+          "_type": "checkbox",
+          "label": "Change of name",
+          "name": "auto_name__10"
+        }
+      ],
+      "legend": "What are the reasons for replacing your security pass?"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__7",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
+  "url": "whyreplacing"
+}
